@@ -1,4 +1,4 @@
-Project Setup: 
+- Project Setup: 
     Editor Preferences
         -> Source Code -> Rider (search if Rider plugin is installed) 
         -> Live Coding -> false 
@@ -6,3 +6,11 @@ Project Setup:
         -> Added editor open location -> Main Window (otherwise assets are always opened in new windods)
     Project Settings 
         -> Copyright -> add your text 
+
+- Editor Symbols -> allow the debugging in UE 
+
+- Debug Mode in Rider 
+    Select "DebugGame" from the dropdown in Solution Configuration from Rider. 
+    Now we can hit the button "Debug" and the Editor will start in Debug Mode (yes, the whole editor)
+    When using UE in Debug mode, make sure to hit "Save All" in Content Browser if something is changed. 
+
