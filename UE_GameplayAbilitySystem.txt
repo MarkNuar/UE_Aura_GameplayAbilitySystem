@@ -1,0 +1,8 @@
+Project Setup: 
+    Editor Preferences
+        -> Source Code -> Rider (search if Rider plugin is installed) 
+        -> Live Coding -> false 
+        -> Autmatically Compile newly added c++ classes -> false 
+        -> Added editor open location -> Main Window (otherwise assets are always opened in new windods)
+    Project Settings 
+        -> Copyright -> add your text 
